@@ -1,1 +1,1 @@
-Vamos a ensayar git PUSH en vsCode.
+Vamos a ensayar git PUSH en vsCode. Y aqui lo modificamos al mismo tiempo con el archivo03.
